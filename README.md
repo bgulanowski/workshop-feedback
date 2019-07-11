@@ -10,6 +10,9 @@ This repo is meant for public issue tracking and wiki content. We don't expect t
 
 ## Change log
 
+### 0.1.11
+- rotation of buffer blocks when pasting
+
 ### 0.1.10
 
 First release here. Features:
@@ -18,6 +21,3 @@ First release here. Features:
 - solid colour substances
 - preliminary copy and paste
 - document save and load
-
-### 0.1.11
-- rotation of buffer blocks when pasting
