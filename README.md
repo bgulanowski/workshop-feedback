@@ -11,6 +11,7 @@ This repo is meant for public issue tracking and wiki content. We don't expect t
 
 ### 0.1.12
 - support for extending a region selection from 2d into 3d
+- fix more UI scaling issues
 
 ### 0.1.11
 - rotation of buffer blocks when pasting
