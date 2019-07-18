@@ -1,5 +1,8 @@
 # workshop-feedback
-Issue tracking for workshop early access
+
+Workshop early access resources.
+
+See [Instructions](https://github.com/bgulanowski/workshop-feedback/wiki/Instructions) for an intro.
 
 This repo is meant for public issue tracking and wiki content. We don't expect to host any source files here.
 
