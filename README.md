@@ -1,4 +1,4 @@
-# workshop-feedback
+# Workshop: Feedback
 
 Workshop early access resources.
 
@@ -9,6 +9,10 @@ This repo is meant for public issue tracking and wiki content. We don't expect t
 ## Download
 
 [V 0.1.13 (alpha)](https://github.com/bgulanowski/workshop-feedback/releases/download/v0.1.13-alpha/Workshop.v0.1.13-alpha.app.zip)
+
+## Sample
+
+![Scotia Plaza Tower](https://github.com/bgulanowski/workshop-feedback/blob/master/Workshop%20-%20Scotia%20Plaza%20(partial).png "Scotia Plaza Tower")
 
 ## Change log
 
