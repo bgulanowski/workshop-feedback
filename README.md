@@ -8,7 +8,7 @@ This repo is meant for public issue tracking and wiki content. We don't expect t
 
 ## Download
 
-[V 0.1.13 (alpha)](https://github.com/bgulanowski/workshop-feedback/releases/download/v0.1.13-alpha/Workshop.v0.1.13-alpha.app.zip)
+[V 0.1.14 (alpha)](https://github.com/bgulanowski/workshop-feedback/releases/download/v0.1.14-alpha/Workshop.v0.1.14-alpha.app.zip)
 
 ## Samples
 
@@ -17,6 +17,30 @@ See the Samples folder for a couple of files to download.
 ![Scotia Plaza Tower](https://github.com/bgulanowski/workshop-feedback/blob/master/Workshop%20-%20Scotia%20Plaza%20(partial).png "Scotia Plaza Tower")
 
 ## Change log
+
+### 0.1.14
+
+Performance improvements and bug fixes.
+
+**Performance:**
+- Improve mesh generation speed with early loop termination
+- Generate more chunk meshes each frame (tweak change from 0.1.13b)
+- Avoid creating new chunks when copying regions
+- Avoid creating new chunks when erasing regions
+- Delete empty chunks when saving
+- When loading a document, verify chunks have non-empty data
+
+**Fixes:**
+- Finish region selection on second click when third click not needed
+- Ensure buffer preview is generated even when hidden
+- Delete a cell even if it's on a different layer than the active layer
+- Restore ability to cancel Region Selection mode with Escape key
+- Ensure buffer transforms are correctly reset when copying a region
+- Use the correct cell layer as mask when clearing before copying
+- Ensure buttons in popovers are scaled to match other UI
+- Enlarge images to reduce jaggy appearance in scaled buttons
+- Use correct colour when selecting colour from colour palette
+- Prevent changing colour selection to invalid values during app launch
 
 ### 0.1.13
 
