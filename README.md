@@ -8,7 +8,7 @@ This repo is meant for public issue tracking and wiki content. We don't expect t
 
 ## Download
 
-[V 0.1.14 (alpha)](https://github.com/bgulanowski/workshop-feedback/releases/download/v0.1.14-alpha/Workshop.v0.1.14-alpha.app.zip)
+[V 0.1.15 (alpha)](https://github.com/bgulanowski/workshop-feedback/releases/download/v0.1.15-alpha/Workshop.v0.1.15-alpha.app.zip)
 
 ## Samples
 
@@ -17,6 +17,18 @@ See the Samples folder for a couple of files to download.
 ![Scotia Plaza Tower](https://github.com/bgulanowski/workshop-feedback/blob/master/Workshop%20-%20Scotia%20Plaza%20(partial).png "Scotia Plaza Tower")
 
 ## Change log
+
+### 0.1.15
+
+Camera movement improvements, and brush library.
+
+Orbiting and zooming now work relative to the selection indicator. This feels more intuitive, and makes navigation much faster, since you can choose exactly where your movements are in relation to.
+
+The Brush Library lets you save and load copied regions of cells. Make a small model, copy it, and save it for later. Save as many brushes as you like.
+
+A few small fixes, like use of Cntl key to simulate right mouse button.
+
+This should be the last release in the 0.1 alpha line. 0.2 will start introducing more dramatic features.
 
 ### 0.1.14
 
