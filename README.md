@@ -8,7 +8,9 @@ This repo is meant for public issue tracking and wiki content. We don't expect t
 
 ## Download
 
-[V 0.1.19 (alpha)](https://github.com/bgulanowski/workshop-feedback/releases/download/v0.1.19-alpha/Workshop.v0.1.19-alpha.app.zip)
+**NOTE: this has been updated to build 0.1.19b**
+
+[V 0.1.19 (alpha)](https://github.com/bgulanowski/workshop-feedback/releases/download/v0.1.19-alpha/Workshop.v0.1.19b-alpha.app.zip)
 
 ## Samples
 
