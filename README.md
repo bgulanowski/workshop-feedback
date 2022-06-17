@@ -10,7 +10,7 @@ This repo is meant for public issue tracking and wiki content. We don't expect t
 
 **NOTE: this has been updated to build 0.1.19b**
 
-[V 0.1.19 (alpha)](https://github.com/bgulanowski/workshop-feedback/releases/download/v0.1.19-alpha/Workshop.v0.1.19b-alpha.app.zip)
+[V 0.1.19c (alpha)](https://github.com/bgulanowski/workshop-feedback/releases/download/v0.1.19c-alpha/Workshop.v0.1.19c-alpha.app.zip)
 
 ## Samples
 
@@ -27,6 +27,7 @@ See the Samples folder for a couple of files to download.
 
 - New "wall" tool: generate filled rhomboids by extruding a path in a given direction
 - support for resizing the window in windowed mode
+- option-double-right-click to automatically move camera to a point
 
 **Bug fixes**
 - CMD-R activates the Region Selection tool
@@ -36,6 +37,8 @@ See the Samples folder for a couple of files to download.
 - CMD-X (Cut command) once again deletes cells as well as copying them
 - fix missing objects in the object palette (aka the "materials palette", as distinct from the colours palette)
 - improve the help panel to make it more readable
+- prevent baize (platform) disappearing
+- fixes for quick delete with cell tool
 
 **Known issues**
 - help is incomplete
