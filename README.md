@@ -8,9 +8,7 @@ This repo is meant for public issue tracking and wiki content. We don't expect t
 
 ## Download
 
-**NOTE: 2022-06-22 0.1.19 has been updated to build d **
-
-[V 0.1.19d (alpha)](https://github.com/bgulanowski/workshop-feedback/releases/download/v0.1.19-alpha/Workshop.v0.1.19d-alpha.app.zip)
+[V 0.2 (alpha)](https://github.com/bgulanowski/workshop-feedback/releases/download/v0.2/Workshop.v0.2-alpha.app.zip)
 
 ## Samples
 
@@ -20,6 +18,11 @@ See the Samples folder for a couple of files to download.
 
 ## Change log
 
+### Changes: 0.2
+
+- Replace the Brushes File Panel with the Part Catalog
+- Fix broken edit buttons in the command bar
+- add tooltips for the Tool Bar
 
 ### Changes: 0.1.19
 
